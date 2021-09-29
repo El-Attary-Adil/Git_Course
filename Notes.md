@@ -63,3 +63,11 @@
 
 <img src=".\assets\10.png" style="border-radius: 10px;" />
 
+> **3 - Add Files to `Local Repo` :**
+
+> using Command `git` with property `commit`
+* Write your `message description` for this change with property `commit -m` :
+
+<img src=".\assets\11.png" style="border-radius: 10px;" />
+
+
