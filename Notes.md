@@ -63,11 +63,38 @@
 
 <img src=".\assets\10.png" style="border-radius: 10px;" />
 
-> **3 - Add Files to `Local Repo` :**
+> **3 - Send Files from `Staging Area` to `Local Repo` :**
 
 > using Command `git` with property `commit`
 * Write your `message description` for this change with property `commit -m` :
 
 <img src=".\assets\11.png" style="border-radius: 10px;" />
 
+> with `git status` we know that commit sended 
+
+<img src=".\assets\12.png" style="border-radius: 10px;" />
+
+> **4 - Final : Send Files from `Local Repo` to `Remote Repo` :**
+
+> using Command `git` with property `push`
+> This Command need Two info `<remote>` and `<name-of-branch>`
+
+#### How Get `<name-of-branch>` ?
+
+> We list All Branch  with Command `git` with property `branch`
+
+<img src=".\assets\13.png" style="border-radius: 10px;" />
+
+#### How Get `<remote>` ?
+
+> We list `Remote Repo` with Command `git` with property `remote`
+
+<img src=".\assets\14.png" style="border-radius: 10px;" />
+
+#### Now Push Commits to `Remote Repo` :
+
+> using Command `git` with property `push` and `branch name` and `remote repo name`
+* Login to GitHub
+
+<img src=".\assets\15.png" style="border-radius: 10px;" />
 
